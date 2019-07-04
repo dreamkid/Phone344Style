@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone344Style</string>
+    <string name="input_mobile_digits">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+</resources>
